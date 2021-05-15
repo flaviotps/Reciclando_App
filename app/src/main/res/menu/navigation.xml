@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/main"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/menu_home" />
+    <item
+        android:id="@+id/material"
+        android:icon="@drawable/recycle"
+        android:title="@string/menu_material" />
+
+    <item
+        android:id="@+id/products"
+        android:icon="@drawable/produto"
+        android:title="@string/menu_product" />
+
+    <item
+        android:id="@+id/location"
+        android:icon="@drawable/location"
+        android:title="@string/menu_location" />
+
+</menu>

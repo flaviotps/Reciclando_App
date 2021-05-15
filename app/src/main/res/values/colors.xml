@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#85af53</color>
+    <color name="colorPrimaryDark">#46632d</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="transparent">@android:color/transparent</color>
+    <color name="white">@android:color/white</color>
+
+    <color name="cream">#d9d2c7</color>
+    <color name="dodgerblue">#1E90FF</color>
+    <color name="Violet">#9400D3</color>
+    <color name="orangered">#FF4500</color>
+
+</resources>
+
+
+

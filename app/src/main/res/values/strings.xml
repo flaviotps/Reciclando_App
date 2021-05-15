@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">Reciclando</string>
+    <string name="menu_material">Materiais</string>
+    <string name="menu_product">Produtos</string>
+    <string name="menu_location">Coleta</string>
+    <string name="menu_home">Inicio</string>
+    <string name="title_activity_main">Reciclando</string>
+    <string name="stats">Estatísticas</string>
+    <string name="mateirla_menu_paper">Papel</string>
+    <string name="mateirla_menu_plastic">Plastico</string>
+    <string name="mateirla_menu_glass">Vidro</string>
+    <string name="mateirla_menu_metal">Metal</string>
+    <string name="mateirla_menu_organic">Organico</string>
+    <string name="mateirla_menu_batteries">Baterias</string>
+    <string name="mateirla_menu_lightbulb">Lampadas</string>
+    <string name="mateirla_menu_eletronic">Eletronicos</string>
+    <string name="mateirla_menu_mixed">Misturados</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_statistics">ActivityStatistics</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_sub_name">Educação Ambiental</string>
+    <string name="menu_statistcs">Estatísticas</string>
+    <string name="menu_videos">Vídeos</string>
+
+
+</resources>
